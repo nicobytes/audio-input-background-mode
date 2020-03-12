@@ -1,5 +1,7 @@
 {
   "name": "audio-input-background-mode",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
